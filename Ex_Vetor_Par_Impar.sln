@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_Vetor_Par_Impar", "Ex_Vetor_Par_Impar\Ex_Vetor_Par_Impar.csproj", "{2BE4230F-87AE-48BA-B9C1-6FAF491CB4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE4230F-87AE-48BA-B9C1-6FAF491CB4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE4230F-87AE-48BA-B9C1-6FAF491CB4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE4230F-87AE-48BA-B9C1-6FAF491CB4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE4230F-87AE-48BA-B9C1-6FAF491CB4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F59B667-3D02-44CF-976D-05F9D709ADB3}
+	EndGlobalSection
+EndGlobal
